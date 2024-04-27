@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guruSec
+- 👋 Hi, I’m guru
 - 👀 I’m interested in web
 - 🌱 I’m currently learning network
 - 📫 How to reach me guru86457@gmail.com
